@@ -1,4 +1,4 @@
-# 🎶 LyricCrafter – Your AI-Powered Songwriting Companion
+# 🎶 LyricCraft – Your AI-Powered Songwriting Companion
 
 ![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-red?logo=streamlit)
 ![License](https://img.shields.io/badge/license-MIT-green)
