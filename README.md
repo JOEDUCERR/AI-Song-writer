@@ -10,11 +10,6 @@
 
 ---
 
-![main1](test2.png)
-![main2](test3.png)
-
----
-
 ## ✨ Features
 
 - 🎼 Generate unique song lyrics in seconds
@@ -25,14 +20,17 @@
 
 ---
 
-## 🚀 Demo
+## 🛠️ Tech Stack
 
-![demo-gif](https://github.com/yourusername/lyriccrafter/blob/main/assets/demo.gif)  
-<!-- You can add your own GIF or screenshot of the app running -->
-
-🛠️ Tech Stack
 Streamlit – UI & web framework
 LangChain – Prompt chaining & parsing
 OpenAI GPT – Core language model
 Python – Core language
 dotenv – Manage environment variables
+
+---
+
+## Demo
+
+![main1](test2.png)
+![main2](test3.png)
