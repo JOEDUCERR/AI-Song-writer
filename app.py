@@ -7,10 +7,11 @@ from langchain_core.output_parsers import StrOutputParser
 from pydantic import SecretStr
 
 # Load environment variables from .env
-load_dotenv()
+# load_dotenv()
 
 # Set up OpenAI API key
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+# OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 if not OPENAI_API_KEY:
     st.error("OpenAI API key not found. Please add it to your .env file as OPENAI_API_KEY.")
