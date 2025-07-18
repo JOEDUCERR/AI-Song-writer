@@ -18,11 +18,11 @@ if not OPENAI_API_KEY:
     st.stop()
 
 st.set_page_config(
-    page_title="Songwriting Helper Chatbot",
+    page_title="LyricCraft",
     page_icon="🎵"
 )
 
-st.title("🎵 Songwriting Helper Chatbot")
+st.title("🎵 LyricCraft")
 st.write("""
 Welcome! Get creative songwriting ideas by selecting a mood, genre, and adding any extra details you want. Fill out the form and press 'Generate Song Lyrics' to get your lyrics instantly!
 """)
