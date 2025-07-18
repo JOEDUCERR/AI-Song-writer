@@ -1,12 +1,14 @@
 # 🎶 LyricCrafter – Your AI-Powered Songwriting Companion
 
-![main](test1.png)
-
 ![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-red?logo=streamlit)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![OpenAI](https://img.shields.io/badge/powered%20by-OpenAI-blue?logo=openai)
 
 **LyricCrafter** is a Streamlit-powered AI chatbot that helps songwriters and music enthusiasts instantly generate creative song lyrics. Just pick a **mood**, select a **genre**, add any **extra ideas**, and let the AI craft original lyrics for you.
+
+---
+
+![main](test1.png)
 
 ---
 
